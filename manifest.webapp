@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Kleber Schneider",
+  "launch_path": "/index.html",
+  "description": "Software Devlover from São Paulo, Brazil with a passion for designing clean, beautiful and functional user experiences.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Kleber Schneider",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Kleber Schneider",
+      "description": "WSoftware Devlover from São Paulo, Brazil with a passion for designing clean, beautiful and functional user experiences."
+    }
+  }
+}
